@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.title("Walmart Sales Data Dashboard")
+st.title("Walmart Sales  Dashboard")
 
 # Load data
 df = pd.read_csv("Walmart_Sales.csv")
